@@ -42,6 +42,9 @@ body {
 
 .destination:hover h2 {
     transform: rotate(0deg);
+    background: #03a9f4;
+    text-align: center;
+    text-shadow: 0 0 5px #01579b;
 }
 
 h2 {
